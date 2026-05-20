@@ -230,16 +230,3 @@ goodness-ai/
 Releases
 └─ GoodnessAI-Setup-v0.1.5-x64.msi
 ```
-
-请不要上传这些工程源码文件或目录：
-
-- `src/`
-- `src-tauri/`
-- `node_modules/`
-- `dist/`
-- `scripts/`
-- `package.json`
-- `package-lock.json`
-- `Cargo.toml`
-- `Cargo.lock`
-- `vite.config.js`
