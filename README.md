@@ -13,14 +13,14 @@
 
 - 软件名称：Goodness AI
 - 中文名称：大善人AI
-- 当前版本：v0.1.5
-- 安装包格式：`.msi`
+- 当前版本：v0.1.6
+- 安装包格式：`.msi` / `.exe`
 - 推荐系统：Windows 10 / Windows 11
 - 发布方式：仅提供安装包、截图和说明文档，不公开源代码
 
 安装步骤：
 
-- 下载 `GoodnessAI-Setup-v0.1.5-x64.msi`
+- 下载 `大善人AI_0.1.6_x64_zh-CN.msi`（推荐）或 `大善人AI_0.1.6_x64-setup.exe`
 - 双击运行安装包
 - 根据安装向导完成安装
 - 启动 Goodness AI（大善人AI）
@@ -228,5 +228,6 @@ goodness-ai/
 
 ```text
 Releases
-└─ GoodnessAI-Setup-v0.1.5-x64.msi
+├─ 大善人AI_0.1.6_x64_zh-CN.msi
+└─ 大善人AI_0.1.6_x64-setup.exe
 ```
